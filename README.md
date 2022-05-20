@@ -45,20 +45,24 @@ The refactored code for 2017 has the run time as follows:
 ---
 
 ## Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
+## What are the advantages or disadvantages of refactoring code?
+## How do these pros and cons apply to refactoring the original VBA script?
 ### Advantages:
-* Better comprehensibility facilitates maintenance and the extendibility of the software
-* Restructuring the source code is possible without altering the functionality
-* Improved legibility improves the comprehensibility of the code for other programmers	An improved code is often difficult for the customer to recognize, since the functionality stays the same, i.e. the benefit is not self-evident
+* Better comprehensibility facilitates maintenance and the extendibility of the code
+* Restructuring the source code without altering the functionality but making it more efficient (in terms of execution time)
+* Improved legibility improves the comprehensibility of the code for other programmersA
 * Removed redundancies and duplications improve the effectiveness of the code
 * Self-contained methods prevent local changes from having an effect on other parts of the code
 * Clean code with shorter, self-contained methods and classes is characterized by better testability
 
 ### Disadvantages
 * Imprecise refactoring could introduce new bugs and errors into the code
-* There is no clear definition of “neat code”
-* An improved code is often difficult for the customer to recognize, since the functionality stays the same, i.e. the benefit is not self-evident
 * In the case of larger teams working on refactoring, the coordination effort required could be surprisingly high
 
 Source: https://www.ionos.com/digitalguide/websites/web-development/what-is-refactoring
+
+### Pros and Cons applied to original VBA script:
+* Pro - Cleaner, more efficient code by maintaining 4 arrays (ticker names, volumes, starting prices, ending prioces) helped avoid going over the 'for' loop again to 'RowCount' number of times to fill the parameters in Output table in AllStocksAnalysis sheet\
+* Pro - Volumes, Starting prices and ending prices are easier to read and retrieve because of storing it in arrays with specific ticker index
+* Con - Don't think any con specifically applies to this particular VBA script
+
