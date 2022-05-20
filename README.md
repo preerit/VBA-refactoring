@@ -12,7 +12,9 @@ In this activity in particular, we are refactoring the code, meaning, we are mak
 
 Stock performace in 2017 is as follows:
 
-![OGcode_2017_runti](https://github.com/preerit/VBA-refactoring/blob/main/OGcode_2017_runtime.png)
+![StockPerformance_2017](https://github.com/preerit/VBA-refactoring/blob/main/StockPerformance_2017.png)
+
+Stock performace in 2018 is as follows:
 
 * 2017 has higher returns than 2018 for all stocks in general
 * However, the total daily volume in 2018 is higher than that in 2017
