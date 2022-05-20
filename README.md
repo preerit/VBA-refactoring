@@ -16,6 +16,8 @@ Stock performace in 2017 is as follows:
 
 Stock performace in 2018 is as follows:
 
+![StockPerformance_2018](https://github.com/preerit/VBA-refactoring/blob/main/StockPerformance_2018.png)
+
 * 2017 has higher returns than 2018 for all stocks in general
 * However, the total daily volume in 2018 is higher than that in 2017
 
