@@ -61,4 +61,4 @@ How do these pros and cons apply to refactoring the original VBA script?
 * An improved code is often difficult for the customer to recognize, since the functionality stays the same, i.e. the benefit is not self-evident
 * In the case of larger teams working on refactoring, the coordination effort required could be surprisingly high
 
-*Source: https://www.ionos.com/digitalguide/websites/web-development/what-is-refactoring
+Source: https://www.ionos.com/digitalguide/websites/web-development/what-is-refactoring
