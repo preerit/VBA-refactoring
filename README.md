@@ -8,6 +8,11 @@ The overall purpose of this analysis is to analyse the performance of different 
 In this activity in particular, we are refactoring the code, meaning, we are making the code more efficient and letting it run faster than it did before. We are measuring code performance (run time) after coding, that lets us understand if it is refactored efficiently.
 
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+### On stock performance:
+* 2017 has higher returns than 2018 for all stocks in general
+* However, the total daily volume in 2018 is higher than that in 2017
+
+### On execution times:
 The original code for 2017 has the run time as follows:
 
 ![OGcode_2017_runtime](https://github.com/preerit/VBA-refactoring/blob/main/OGcode_2017_runtime.png)
@@ -23,3 +28,5 @@ The original code for 2017 has the run time as follows:
 The refactored code for 2017 has the run time as follows:
 
 ![VBA_Challenge_2018](https://github.com/preerit/VBA-refactoring/blob/main/VBA_Challenge_2018.png)
+
+* The refactored code has a more efficient run time for both 2017 and 2018.
