@@ -9,6 +9,11 @@ In this activity in particular, we are refactoring the code, meaning, we are mak
 
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 ### On stock performance:
+
+Stock performace in 2017 is as follows:
+
+![OGcode_2017_runti](https://github.com/preerit/VBA-refactoring/blob/main/OGcode_2017_runtime.png)
+
 * 2017 has higher returns than 2018 for all stocks in general
 * However, the total daily volume in 2018 is higher than that in 2017
 
