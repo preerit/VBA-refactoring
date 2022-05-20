@@ -15,6 +15,6 @@ The refactored code for 2017 has the run time as follows:
 
 
 The original code for 2017 has the run time as follows:
-
+![OGcode_2018_runtime](https://github.com/preerit/VBA-refactoring/blob/main/OGcode_2018_runtime.png)
 
 The refactored code for 2017 has the run time as follows:
